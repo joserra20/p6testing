@@ -1,7 +1,7 @@
 # Practica 6: Testing de una aplicacion de Spring Boot
 
 ## DNI & Telefono (Unit Tests)
-Se han configurado varias pruebas comprobando las diferentes casuisticas posibles y verificando sus resultados.
+Se han configurado varias pruebas comprobando las diferentes casuisticas posibles y verificando el correcto funcionamiento de la validación de formato, longitud, etc.
 
 ## ProcessController (E2E Tests)
 Se han configurado 4 pruebas 'End to End' que cubren todas las casuisticas posibles cuando se llama al servicio.
